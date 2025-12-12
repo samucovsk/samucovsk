@@ -1,59 +1,75 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Junior SRE Engineer</h3>
+<!-- Banner Principal -->
+<h1 align="center">👋 Hi, I'm <strong>Samuel Ferreira</strong></h1>
+<h3 align="center">Junior Site Reliability Engineer (SRE)</h3>
 
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" width="280" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pxNGx4aTYzc2owZjNkdWhmNWRzMWRjY2Y3YzB2YzNud3F0djM5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXB6wt6QhO8EM/giphy.gif" width="320"/>
 </p>
 
 ---
 
-### 🧰 About Me
-- 👨‍💻 Junior Site Reliability Engineer  
-- 🔧 Focused on Cloud, Linux, Automation & Infrastructure as Code  
-- 🚀 Always learning about observability, distributed systems, and DevOps culture  
-- 📚 Improving everyday through labs, projects and real-world troubleshooting  
+## 🚀 About Me
+- 🔧 Junior SRE Engineer  
+- ☁️ Focus on Cloud Infrastructure, Reliability & Automation  
+- 🐧 Linux enthusiast  
+- 📦 Experience with CI/CD, IaC, Observability and container-based systems  
+- 📚 Always experimenting with new tools, architectures and distributed systems  
 
 ---
 
-### 🧱 Tech Stack
+## ⚙️ Tech Stack
 
-#### ☁️ Cloud / Infra
-- AWS (EC2, VPC, S3, IAM, ALB, ECS, Lambda)
-- Terraform
-- Docker
+### ☁️ Cloud & Infra
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-5C4EE5.svg?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+</p>
 
-#### ⚙️ SRE & Automation
-- Linux
-- Ansible
-- CI/CD (GitHub Actions)
+### 🧰 Automation & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white" />
+</p>
 
-#### 📊 Observability
-- Prometheus
-- Grafana
-- Alertmanager
-- Logging basics
+### 📊 Observability
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alertmanager-E6522C.svg?logo=prometheus&logoColor=white" />
+</p>
 
-#### 💾 Databases & Storage
-- PostgreSQL
-- Redis
-- EFS / RDS (AWS)
+### 💾 Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF.svg?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EFS-FF9900.svg?logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
-### 📈 What I'm Working On
-- 🏗️ Real-world cloud infrastructure labs  
-- 🔍 Monitoring & alerting with Prometheus/Grafana  
-- ⚙️ Automating infra deployment with Terraform + Ansible  
-- 📦 Containerizing apps and testing orchestration  
+## 📈 Current Focus
+- Building real-world infrastructures with Terraform  
+- Improving observability with Prometheus + Grafana  
+- Automating provisioning with Ansible  
+- Deepening knowledge in networking, reliability patterns and scaling  
 
 ---
 
-### 📫 Contact
-- **LinkedIn:** *add your link here*  
-- **Email:** *add your email here*  
+## 📫 Contact
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-ferreira-3693212b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ferr3ira.samuel.job@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  🚀 *"Build, automate, observe, improve."*
+  <strong>“Reliability isn’t an afterthought — it's the foundation.”</strong>
 </p>
