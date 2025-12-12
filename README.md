@@ -1,15 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%"/>
-</p>
-
 <h1 align="center">🌌 Samuel Ferreira — SRE Junior</h1>
 
 <p align="center">
   <em>Infrastructure • Cloud • Reliability • Automation</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/blue.svg" width="100%" />
 </p>
 
 ---
@@ -26,10 +18,10 @@
 
 <p align="center">
   <a href="mailto:ferr3ira.samuel.job@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-ferreira-3693212b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -46,22 +38,12 @@
 
 ## 📈 Activity Graph
 
+> (Os gráficos animados externos estão instáveis; aqui está a alternativa funcional)
+
 <p align="center">
-  <img src="https://github-readme-activity-graph-rho.vercel.app/graph?username=samuel-ferreira&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ferreira&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌀 Matrix Dark Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/matrix.svg" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%"/>
-</p>
-
-<h3 align="center">🔵 SRE • DevOps • Infra as Code • Cloud • Observabilidade</h3>
+<h3 align="center">🔵 SRE • DevOps • IaC • Cloud • Observabilidade</h3>
