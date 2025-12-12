@@ -1,4 +1,3 @@
-<!-- Banner Dark Clouds -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%"/>
 </p>
@@ -18,7 +17,7 @@
 ## 🔧 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,nginx,git,github,postgres" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,nginx,git,github,postgres&theme=dark" />
 </p>
 
 ---
@@ -36,7 +35,7 @@
 
 ---
 
-## 🧩 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-ferreira&show_icons=true&theme=tokyonight" />
@@ -53,10 +52,10 @@
 
 ---
 
-## 🌀 Matrix Dark
+## 🌀 Matrix Dark Animation
 
 <p align="center">
-  <img src="./assets/matrix-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/matrix.svg" width="100%" />
 </p>
 
 ---
